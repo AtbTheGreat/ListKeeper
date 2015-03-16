@@ -1,2 +1,2 @@
 # ListKeeper
-List Keeper is program from July 2014 written in Python, in which the user may create files containing lists of words, sorted in alphabetic order. The user may also edit their files, save or discard their changes, and delete files.
+List Keeper is program from July 2014 written in Python, in which the user may create files containing lists of words, sorted in alphabetic order. The user may also edit their files, save or discard their changes, and delete files. I made this program as a response to an exercise from the book "Programming in Python 3: A Complete Introduction to the Python Language (2nd Edition)" (ISBN 978-0321680563) by Mark Summerfield.
